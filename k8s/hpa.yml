@@ -1,0 +1,1 @@
+# TODO: HorizontalPodAutoscaler targeting CPU > 50%, min 2, max 8 replicas
